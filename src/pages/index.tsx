@@ -43,6 +43,12 @@ const projects = [
     href: "https://martinssolucoesweb.site/mcontabilidade",
   },
   {
+    title: "MedLAR - Medicina e Cuidados Domiciliares",
+    description: "O Home Care que você merece Com o cuidado que você precisa",
+    image: "https://i.ibb.co/fd4m1SGk/Screenshot-2025-02-23-at-18-40-49.png",
+    href: "https://martinssolucoesweb.site/medlar",
+  },
+  {
     title: "Andrade & Tavares Advocacia",
     description: "Soluções jurídicas eficazes para a proteção e crescimento do seu negócio.",
     image: "https://i.ibb.co/9k1gR9Q6/Screenshot-2025-02-12-at-19-22-54.png",
@@ -59,13 +65,7 @@ const projects = [
     description: "Aprenda a se destacar da concorrência criando CupCakes confeitados incríveis para suas clientes.",
     image: "https://i.ibb.co/kV6cFMNv/Screenshot-2025-02-09-at-15-42-30.png",
     href: "https://martinssolucoesweb.site/cupcakesdamari",
-  },
-  {
-    title: "",
-    description: "",
-    image: "",
-    href: "",
-  },
+  }
 ];
 
 const services = [
