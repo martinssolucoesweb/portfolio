@@ -43,6 +43,18 @@ const projects = [
     href: "https://martinssolucoesweb.site/mcontabilidade",
   },
   {
+    title: "MPro",
+    description: "Aumente suas vendas e potencialize seu negócio!",
+    image: "https://i.ibb.co/397WWGkW/Captura-de-tela-2025-03-17-204547.png",
+    href: "https://martinssolucoesweb.site/mcpro/",
+  },
+  {
+    title: "DataMind IA",
+    description: "Transformando dados em decisões inteligentes com IA!",
+    image: "https://i.ibb.co/mCm4mwbW/Captura-de-tela-2025-03-17-204916.png",
+    href: "https://martinssolucoesweb.site/mcpro/",
+  },
+  {
     title: "MedLAR - Medicina e Cuidados Domiciliares",
     description: "O Home Care que você merece Com o cuidado que você precisa",
     image: "https://i.ibb.co/fd4m1SGk/Screenshot-2025-02-23-at-18-40-49.png",
