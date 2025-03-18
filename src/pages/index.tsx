@@ -52,7 +52,7 @@ const projects = [
     title: "DataMind IA",
     description: "Transformando dados em decisões inteligentes com IA!",
     image: "https://i.ibb.co/mCm4mwbW/Captura-de-tela-2025-03-17-204916.png",
-    href: "https://martinssolucoesweb.site/mcpro/",
+    href: "https://martinssolucoesweb.site/datamindia/",
   },
   {
     title: "MedLAR - Medicina e Cuidados Domiciliares",
