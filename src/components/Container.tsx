@@ -87,7 +87,7 @@ export default function Container(props: ContainerProps) {
   const meta = {
     title: "Martins Soluções Web",
     description: `Soluções inovadoras e de alta qualidade para impulsionar o crescimento digital da sua empresa.`,
-    image: "/assets/logo.png",
+    image: "/assets/logoWithBackground.png",
     type: "website",
     ...customMeta,
   };
@@ -118,6 +118,7 @@ export default function Container(props: ContainerProps) {
     <>
       <Head>
         <title>{meta.title}</title>
+        <meta name="google-site-verification" content="gaAU6THIS19PRJcg9RN1YOdUB32lSs6E7niMkhShZjk" />
         <meta name="robots" content="follow, index" />
         <meta name="theme-color" content="#7B82FE" />
         <meta content={meta.description} name="description" />
@@ -130,15 +131,16 @@ export default function Container(props: ContainerProps) {
           href={`https://www.wendoj.codes${router.asPath}`}
         />
         <meta property="og:type" content={meta.type} />
-        <meta property="og:site_name" content="WendoJ" />
+        <meta property="og:site_name" content="Martins Soluções Web" />
         <meta property="og:description" content={meta.description} />
         <meta property="og:title" content={meta.title} />
         <meta property="og:image" content={meta.image} />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="WendoJ" />
+        <meta name="twitter:site" content="Martins Soluções Web" />
         <meta name="twitter:title" content={meta.title} />
         <meta name="twitter:description" content={meta.description} />
         <meta name="twitter:image" content={meta.image} />
+        
         <link rel="manifest" href="/manifest.json" />
         <link rel="apple-touch-icon" href="/icon-192x192.png" />
       </Head>
